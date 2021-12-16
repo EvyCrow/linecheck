@@ -1,0 +1,3 @@
+﻿  dobmass.cpp
+C:\Users\paart\source\repos\dobmass\dobmass.cpp(21,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  dobmass.vcxproj -> C:\Users\paart\source\repos\dobmass\Debug\dobmass.exe
